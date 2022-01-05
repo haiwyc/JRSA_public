@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'JRSA'
-copyright = '2022，精容数安发布文档'
+copyright = '2022年1月，精容数安'
 author = 'jrsa'
 
 # The full version, including alpha/beta/rc tags
